@@ -23,4 +23,4 @@ In future updates, I plan to include additional features such as:
 As the project progresses, I will provide detailed instructions for installation and usage. Please stay tuned for updates.
 
 ## Feedback and Contributions
-Any feedback, suggestions, or contributions are welcome to help improve this app. If you have any ideas or would like to contribute to the project, please feel free to reach out to me at my email address: `abdelrahmankest1868@gmail.com`
+Any feedback, suggestions, or contributions are welcome to help improve this app. If you have any ideas or would like to contribute to the project, please feel free to reach out to me at my email address: `abdelrahmankest1868@gmail.com`.
