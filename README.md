@@ -34,4 +34,4 @@ You can download the latest version of IronIQ from the following link: [Download
 
 ## Feedback and Contributions
 
-Any feedback, suggestions, or contributions are welcome to help improve this app. If you have any ideas or would like to contribute to the project, please feel free to reach out to me at my email address: blizzardbyte@outlook.com
+Any feedback, suggestions, or contributions are welcome to help improve this app. If you have any ideas or would like to contribute to the project, please feel free to reach out to me at my email address: blizzardbyte@outlook.com.
