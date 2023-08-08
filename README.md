@@ -24,13 +24,14 @@ In future updates, I plan to include additional features such as:
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](screenshots/PLAY1.png)
+![Screenshot 2](screenshots/PLAY2.png)
+![Screenshot 3](screenshots/PLAY3.png)
+![Screenshot 4](screenshots/PLAY4.png)
 
 ## Download
 
-You can download the latest version of IronIQ from the following link: [Download IronIQ](https://www.mediafire.com/file/uyshre1mcjwsvki/IronIQ.apk/file)
+You can download the latest version of IronIQ from the following link: [Download IronIQ](https://play.google.com/store/apps/details?id=com.BlizzardByte.ironiq)
 
 ## Feedback and Contributions
 
